@@ -1,0 +1,21 @@
+interface I1
+{
+  void method1();
+}
+interface I2 extends I1
+{
+  void method2();
+}
+
+class A1
+{
+  public String methodA1()
+  {
+    String strA1 = "I am method of class A1";
+    return strA1;
+  }
+  public String toString()
+  {
+    return "toString() method of class A1";
+  }
+}

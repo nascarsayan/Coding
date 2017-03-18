@@ -1,0 +1,14 @@
+@startuml
+top to bottom direction
+:Match\nOfficial: as MO
+:Team\nManager: as TM
+:Teams: as T
+:Organiser: as OR
+:Others: as OT
+(Login) as L
+(Match Official's Tasks) as MOT
+(Team Manager's Tasks) as TMT
+(Teams' Tasks) as TT
+(Organiser's Tasks) as ORT
+(Others' Tasks) as OTT
+@enduml

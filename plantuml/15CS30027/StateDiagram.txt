@@ -1,0 +1,45 @@
+@startuml
+
+state "Store Biodata" as SB{
+SB : do / store data
+}
+
+state "Generate ID and\nAllot Hall" as GIAH{
+GIAH : do / generate ID
+GIAH : do / allot hall
+}
+
+state "Interaction with Team" as IT{
+IT : do / give id card
+}
+
+state "Check if Already Issued" as CAI{
+CAI : do / check if already issued
+}
+
+state "Check Availability" as CA{
+CA : do / check availability
+}
+
+state "Give Kit" as GK{
+GK : do / give kit
+}
+
+[*] --> SB
+SB --> SB : [Not all biodata stored]  / enter biodata
+SB --> GIAH : [All biodata entered && all biodata saved]
+
+GIAH --> IT : [id generated && hall allotted]
+
+IT --> CAI : [kit requested]
+IT --> [*] : [kit not requested]
+
+CAI --> CA : [kit not already issued]
+CAI --> [*] : [kit already issued] / show mwssage
+
+CA --> GK : [kit available]
+CA --> [*] : [kit unavailable] / show message
+
+GK --> [*] : [give kit]
+
+@enduml

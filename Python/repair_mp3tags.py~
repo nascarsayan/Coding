@@ -1,0 +1,21 @@
+import os
+import subprocess
+path = "/media/nascarsayan/ArimaKousei/Music/Japanese/"
+dir_ls = subprocess.check_output("ls " + path, shell = True).split("\n")
+dir_ls.remove("Best")
+dir_ls.pop(-1)
+dir_ls.remove("OST")
+print dir_ls
+for d in dir_ls:
+    f_ls = subprocess.check_output("ls " + path + str(d), shell = True).split("\n")
+    f_ls.pop(-1)
+    for f in f_ls:
+        p = f.split("_-_")
+	if len(p) < 2
+	    continue
+        album = str(p[0]).replace("_", " ")
+        title = str(p[1]).replace("_", " ").replace(".mp3", "")
+        #print "#%s#->#%s#" % (album, title)
+        os.system('mid3v2 --TALB "' + album + '" ' + path + str(d) + "/" + str(f))
+        os.system('mid3v2 --TIT2 "' + title + '" ' + path + str(d) + "/" + str(f))
+        os.system('mid3v2 -v --TENC "nascarsayan" ' + path + str(d) + "/" + str(f))

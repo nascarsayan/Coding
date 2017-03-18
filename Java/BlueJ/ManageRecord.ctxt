@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=name
+comment0.target=Employee(java.lang.String)
+comment1.params=empAge
+comment1.target=void\ empAge(int)
+comment2.params=empDesig
+comment2.target=void\ empDesignation(java.lang.String)
+comment2.text=Assign\ the\ designation\ to\ the\ variable\ designation.
+comment3.params=empSalary
+comment3.target=void\ empSalary(double)
+comment3.text=Assign\ the\ salary\ to\ the\ variable\ salary.
+comment4.params=
+comment4.target=void\ printEmployee()
+comment4.text=Print\ the\ Employee\ details
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6

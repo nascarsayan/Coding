@@ -1,0 +1,67 @@
+@startuml
+
+actor "Match Official" as MO
+boundary "Match Official's\nHomepage" as HM
+database "Sports Database" as SD
+boundary "Update Failure" as UF
+actor "Organiser" as OR
+boundary "Update Success" as US
+
+activate MO
+
+MO -> HM : login request
+activate HM
+HM -> UF : login failure
+HM --> MO : login success
+deactivate HM
+
+MO -> HM : scoreboard update request
+activate HM
+HM --> MO : get sports
+deactivate HM
+
+MO -> HM : enter sport
+activate HM
+
+HM -> SD : search for\nthe sport
+activate SD
+
+SD -> UF : sport absent
+activate UF
+
+SD --> HM : sport present
+deactivate SD
+
+HM --> MO : get updates
+deactivate HM
+
+MO -> HM : enter updates
+activate HM
+
+HM -> SD : check validity
+activate SD
+
+SD -> SD : match did not occur
+activate SD
+SD -> UF : match has occured
+deactivate SD
+
+SD -> SD : format is correct
+activate SD
+SD -> UF : format is incorrect
+deactivate SD
+SD -> OR : notify organiser
+activate OR
+SD --> HM : waiting
+HM --> MO : waiting for organiser
+deactivate HM
+
+OR -> US : update scoreboard
+OR --> UF : don't update scoreboard
+deactivate OR
+deactivate SD
+
+UF --> MO : failure or waiting message
+US --> MO : success message
+MO -[hidden]-> HM
+@enduml

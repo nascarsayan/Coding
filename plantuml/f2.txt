@@ -1,0 +1,45 @@
+@startuml
+
+:Match\nOfficial: as MO
+:Team\nManager: as TM
+:Teams: as T
+:Organiser: as OR
+:Others: as OT
+
+Rectangle R{
+
+(Match Official's Login) as MOL
+(Match Official's Tasks) as MOT
+left to right direction
+MO -> MOL
+MOL ..> MOT : include
+
+
+(Team Manager's Login) as TML
+(Team Manager's Tasks) as TMT
+left to right direction
+TM -> TML
+TML ..> TMT : include
+
+(Teams' Login) as TL
+(Teams' Tasks) as TT
+left to right direction
+T -> TL
+TL ..> TT : include
+
+
+(Organiser's Login) as ORL
+(Organiser's Tasks) as ORT
+left to right direction
+OR -> ORL
+ORL ..> ORT : include
+
+
+(Others' Login) as OTL
+(Others' Tasks) as OTT
+left to right direction
+OT -> OTL
+OTL ..> OTT : include
+}
+
+@enduml

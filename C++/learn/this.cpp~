@@ -1,0 +1,28 @@
+#include <iostream>
+#include <cstdlib>
+#include <cstdio>
+
+class pair
+{
+public:
+  void print(){printf("(%d, %d)\n", x, y);}
+  void set(int x, int y){this->x = x; this->y = y;}
+  pair inverse(){x = -x; y = -y; return *this;}
+  void plus(pair pt2){x += pt2.x; y += pt2.y;}
+  pair* where_am_i(){return this;}
+private:
+  int x, y;
+};
+int main(int argc, char *argv[])
+{
+  pair p, q;
+  p.set(10, 20);
+  p.print();
+  p.where_am_i();
+  q = p.inverse();
+  p.print();
+  p.where_am_i();
+  q.print();
+  q.where_am_i();
+  return 0;
+}

@@ -1,0 +1,61 @@
+@startuml
+actor Actor as AC
+boundary "Login\nScreen" as LS
+database "Login\nCredentials" as LC
+boundary "Login\nFailed" as LF
+
+activate AC #000000
+AC -> LS : click on login
+
+activate LS #000000
+LS --> AC : ask for user type
+deactivate LS
+
+AC -> LS : enter user type
+activate LS #000000
+
+activate LC #000000
+LS -> LC : search for the\n database of this type
+
+activate LF #000000
+LC -> LF : database not found
+LC --> LS : database found
+
+deactivate LC
+LS --> AC : ask for\nlogin credentials
+deactivate LS
+
+AC -> LS : provide\nlogin credentials
+activate LS #000000
+
+LS -> LC : Send for\nverification
+activate LC #D3D3D3
+
+LC -> LC : Find username
+activate LC #000000
+
+LC -> LF : username not found
+deactivate LC
+
+AC -[hidden]->LS 
+
+LC -> LC : Match password
+activate LC #000000
+
+LC -> LF : password\ndoes not match
+deactivate LC
+
+LC --> LS : username and\npassword correct
+deactivate LC
+
+LS --> AC : login successful
+deactivate LS
+
+AC -[hidden]->LS 
+
+LF --> AC : failure message
+deactivate LF
+
+AC -[hidden]->LS 
+
+@enduml

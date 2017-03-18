@@ -1,0 +1,154 @@
+@startuml
+
+class Login{
+-userId : String
+-password : String
++boolean login()
+-String getUserId()
+-String getPassword()
+-boolean authorize()
+}
+
+class SignUp{
+-userId : String
+-password : String
+-biodata : Biodata
++boolean signUp()
+-String setUserId()
+-String setPassword()
+-boolean isAvailable()
+}
+
+class Scoreboard{
+-scoreboard[] : FILE
+-sports : Sport
++void printScoreboard()
++boolean setScoreboard(String)
+}
+
+class Schedule{
+-schedule[] : FILE
+-sports : Sport
++void printSchedule(String)
++boolean updateScoreboard(String)
+}
+
+class HallManagement{
+-hall : String
+-hall[] : FILE
+-nextHall : int
++String setHall()
+}
+
+class Complaints{
+-complaints[] : FILE
++void lodgeComplaint()
++void addressComplaint()
+}
+
+class KitManagement{
+-playerId : String
+-sports : Sport
+-kits[] : FILE
++void requestKit(Sport)
+-boolean isIssued()
+-boolean isAvailable()
+}
+
+class Inventory{
+-sports : Sport
++buyKits()
+}
+
+class IITMS{
+void main()
+}
+
+class Actor{
+#userId : String
+#password : String
+#biodata : Biodata
+#boolean login()
+#boolean signUp()
+#void printScoreboard()
+#void printSchedule(String)
+}
+
+class Others{
+}
+
+class MatchOfficial{
+-void updateScoreboardReq()
+}
+
+class Organiser{
+-boolean setScoreboard()
+-boolean updateScoreboard()
+-void requestKit()
+-void addressComplaint()
++void updateScoreboardReq()
++void applyForKit()
+}
+
+class Teams{
+-void checkIn()
+-void applyForKit()
+}
+
+class TeamManager{
+-void lodgeComplaint()
+-String setHall()
++void checkIn()
+}
+
+Actor <|-- Others
+Actor <|-- MatchOfficial
+Actor <|-- Organiser
+Actor <|-- Teams
+Actor <|-- TeamManager
+
+Login "1..*" --* "1" IITMS
+SignUp "1..*" --* "1" IITMS
+Scoreboard "1..*" --* "1" IITMS
+Schedule "1..*" --* "1" IITMS
+HallManagement "1..*" --* "1" IITMS
+Complaints "1..*" --* "1" IITMS
+KitManagement "1..*" --* "1" IITMS
+KitManagement "1" *-- "13" Inventory : contains
+
+MatchOfficial "1..*" -- "1..*" Organiser
+Organiser "1..*" -- "1..*" Teams
+Organiser "1..*" -- "1..*" TeamManager
+Teams "1..*" -- "1" TeamManager
+
+IITMS "1" *-- "1..*" Actor
+
+enum Sport{
+Athletics
+Badminton
+Basketball
+Cricket
+Football
+Hockey
+Lawn Tennis
+Squash
+Swimming
+Table Tennis
+Volleyball
+Water Polo
+Weightlifting
+}
+
+enum Biodata{
+name : String
+actorType : Actors
+}
+
+enum Actors{
+Match Official
+Organiser
+Others
+Team Managers
+Teams
+}
+@enduml

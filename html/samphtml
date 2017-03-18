@@ -1,0 +1,45 @@
+<!DOCTYPE html> #1st line
+<html lang="en"> #lang
+<head> #head
+<meta charset="utf-8"> #charset
+<title> #doc title, box on hover
+<link href="/path/css" rel="stylesheet">/ #css
+<script src="/path/js"> #js
+<body> #body
+<p> #para
+<br> #line break
+<img src="/path/img" alt="<name>"> #image
+<input type="checkbox"> #input
+<article> #div type
+<aside> #aside
+<small> #tiny & actually small
+<s> #struck
+<b><i><strong><em> #bold italics
+<a href="@url"> #create link
+!<embed>
+<wbr> #word break
+<time datetime="YYYY-MM-DD HH:MM<+/-timezone diff>" pubdate> #date time
+!<span> #text snippets inside another
+<header> #div type
+<footer> #div type
+<figure> #div type
+<figcaption> #fig caption, text
+<h1><h2><h3><h4> #heading type
+<ul><li> #unordered list
+<section> #a section, div type
+<main> #main article, primary content, used once in the page
+<sub> <sup> #subscript superscript 
+<output id="<name>"> #output
+<mark>
+<del> <ins>
+<fieldset> #field create
+<legend> #legend for field
+<input type="$"> #$=text, password, checkbox, radio, submit, image, reset, button
+    <input id="$" placeholder="#" autofocus> # represents sample
+<form action="$">
+<select>
+<textarea>
+<form novalidate> or <input type="submit" formnovalidate>
+
+
+

@@ -1,0 +1,14 @@
+public class Staff extends Employee
+{
+  private string desig;
+  public Employee(String name, int age, int ecno, String doj, String desig)
+  {
+    super(name, age, ecno, doj);
+    this.desig = desig;
+  }
+  pubic void printAttr()
+  {
+    super.printAttr();
+    System.out.printf("Designation = %s\n", desig);
+  }
+}

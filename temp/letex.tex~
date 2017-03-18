@@ -1,0 +1,52 @@
+\documentclass[10pt,a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{graphicx}
+\usepackage{epstopdf}
+\usepackage{tikz}
+\author{Khadpe Pranav Ajay(15EE30025)}
+\title{Multipoint evaluation of polynomials}
+\begin{document}
+\maketitle
+\section{Objective}
+The objective is to evaluate the given polynomialof degree $3^d-1$ at d different points.
+\\Let the given polynomial be:
+\beginA(x) = a_0 + a_1x + a_2x^2 + .... + a_{n-1}x^{n-1}
+\end{equation}
+\\We wish to evaluate $A(x)$ at n points $x_0,x_1,...,x_{n-1}$, such that:
+\begin{equation}x_k = \frac{2k\pi}{n} ;0\leq k\leq {n-1}
+\end{equation}
+\section{Three way Decomposition}
+In order to evaluate the given polynomial at a particular point we can decompose given polynomial $A(x)$ into the following three polynomials:
+\\$A_1(x)=a_0 + a_3x + a_6x^2 + .....$
+\\$A_2(x)=a_1 + a_4x + a_7x^2 + .....$
+\\$A_3(x)=a_2 + a_5x + a_8x^2 + .....$
+\\And $A(x)$ is given by:
+\begin{equation}
+A(x) = A_1(x^3) + xA_2(x^3) + x^2A_3(x^3)
+\end{equation}
+\\\\Evaluating $A(x)$ at ${\alpha}^k$ we get:
+\\$A({\alpha}^k) = A_1({\alpha}^{3k}) + {\alpha}^kA_2({\alpha}^{3k}) + {\alpha}^{2k}A_3({\alpha}^{3k})$
+\\\\At ${\alpha}^{k+\frac{n}{3}}$ we have:
+\\$A({\alpha}^{k+\frac{n}{3}}) = A_1({\alpha}^{3k+n}) + {\alpha}^{k+\frac{n}{3}}A_2({\alpha}^{3k+n}) + {\alpha}^{2(k+\frac{n}{3})}A_3({\alpha}^{3k+n})$
+\\\\Now if we take $\alpha$ to be the $n^{th}$ root of $1$ then ${\alpha}^n = 1$ then the above equation becomes:
+\\$A({\alpha}^{k+\frac{n}{3}}) = A_1({\alpha}^{3k}) + {\alpha}^{k+\frac{n}{3}}A_2({\alpha}^{3k}) + {\alpha}^{2(k+\frac{n}{3})}A_3({\alpha}^{3k})$
+\\\\Similarly,
+\\$A({\alpha}^{k+\frac{2n}{3}}) = A_1({\alpha}^{3k}) + {\alpha}^{2(k+\frac{2n}{3})}A_2({\alpha}^{3k}) + {\alpha}^{k+\frac{n}{3}}A_3({\alpha}^{3k})$
+\\\\Thus we observe that the evaluation of a polynomial of degree $n$, at 3 points has reduced to the evaluation of a polynomial of degree $\frac{n}{3}$ at one point namely $\alpha$.\\\\Further, $A_1(\alpha),A_2(\alpha)$ and $A_3(\alpha)$ can also be recursively calculated from $A_{11},A_{12},A_{13},A_{21},A_{22},...$ and so on.
+\section{Complexity Analysis}
+Thus we notice that we can devise a divide and conquer strategy to evaluate the polynomial.
+Since at each step we evaluate the polynomial by further dividing it into three smaller polynomials, we arrive at the recurrence relation:
+\\\[T(n)=\left\{\begin{array}{cl}
+a,&n = 1\\
+3T(\frac{n}{3}) + bn + c,& n > 1,n = 3^d,d \geq 0 \end{array}\right.\]
+\\For example, let us analyse the evaluation of a polynomial of degree 9, at 9 points.It is first decomposed into 3 polynomials, each requiring evaluation at 3 points. These 3 polynomials are further divided into 3 polynomials each, as shown below schematically: 
+\\\\\tikz \draw[fill=white!100] (0,0) rectangle (\linewidth, -0.3in) node[pos=.5]{9};
+\\\tikz \draw[fill=white!5] (0,0) rectangle (\linewidth/3, -0.3in) node[pos=.5]{3};\tikz \draw[fill=white!5] (0,0) rectangle (\linewidth/3, -0.3in) node[pos=.5]{3};\tikz \draw[fill=white!5] (0,0) rectangle (\linewidth/3, -0.3in) node[pos=.5]{3};
+\\\tikz \draw[fill=white!5] (0,0) rectangle (\linewidth/9, -0.3in) node[pos=.5]{1};\tikz \draw[fill=white!5] (0,0) rectangle (\linewidth/9, -0.3in) node[pos=.5]{1};\tikz \draw[fill=white!5] (0,0) rectangle (\linewidth/9, -0.3in) node[pos=.5]{1};\tikz \draw[fill=white!5] (0,0) rectangle (\linewidth/9, -0.3in) node[pos=.5]{1};\tikz \draw[fill=white!5] (0,0) rectangle (\linewidth/9, -0.3in) node[pos=.5]{1};\tikz \draw[fill=white!5] (0,0) rectangle (\linewidth/9, -0.3in) node[pos=.5]{1};\tikz \draw[fill=white!5] (0,0) rectangle (\linewidth/9, -0.3in) node[pos=.5]{1};\tikz \draw[fill=white!5] (0,0) rectangle (\linewidth/9, -0.3in) node[pos=.5]{1};\tikz \draw[fill=white!5] (0,0) rectangle (\linewidth/9, -0.3in) node[pos=.5]{1};
+\\\\The number of such decompositions is proportional to ${\lg}_3n$
+\\The complexity can be thought of in terms of area of the diagram. The length is proprotional to n and the depth is proportional to ${\lg_3}n$.
+\\Thus we arrive at the Asymptotic bound: $T(n) \in O(n{\lg}_3n)$
+\end{document}

@@ -1,0 +1,26 @@
+#include <iostream>
+using namespace std;
+namespace n1
+{
+  void foo(int x)
+  {
+    cout << "The number is " << x << "\n";
+  }
+}
+namespace n2
+{
+  void foo(int x)
+  {
+    cout << x << " is the number\n";
+  }
+}
+namespace n3
+{
+  int main(int argc, char *argv[])
+  {
+    n1::foo(5);
+    n2::foo(6);
+    return 0;
+  }
+
+}

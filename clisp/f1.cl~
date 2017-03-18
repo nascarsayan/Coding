@@ -1,0 +1,11 @@
+(defstruct dog name breed age)
+(defparameter *rover*
+    (make-dog :name "rover"
+              :breed "collie"
+              :age 5))
+(print *rover*)
+(defparameter *rover*
+    (make-dog :name "rover"
+              :breed "collie"
+              :age 5))
+(print *rover*)

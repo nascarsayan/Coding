@@ -1,0 +1,22 @@
+@startuml
+class Table
+class Painter{
+doPaint() : String
+}
+class House{
+tables : Table[]
+kitchen : Kitchen[]
+bathroom1 : Bathroom
+bathroom2 : Bathroom
+House(Table[] tables)
+paint(Painter painter) : void
+}
+class Kitchen{
+}
+class Bathroom{
+}
+Kitchen --* House
+Bathroom --* House
+Table --* House
+Painter --* House
+@enduml

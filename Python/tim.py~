@@ -1,0 +1,3 @@
+import time
+
+time.strftime('%a %b %d %H:%M:%S %Y', time.gmtime(1347517370))

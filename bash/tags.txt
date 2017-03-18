@@ -1,0 +1,999 @@
+IDv2 tag info for Music/Japanese/Best/AldnoahZero_-_aLIEz.mp3
+COMM==eng=Aldnoah.Zero ED02
+TIT2=aLIEz
+TPE1=Mizuki
+IDv2 tag info for Music/Japanese/Best/Amnesia_-_Zoetrope.mp3
+COMM==eng=Amnesia OP01
+TIT2=Zoetrope
+TPE1=Nagi Yanagi
+IDv2 tag info for Music/Japanese/Best/Angel_Beats_-_My_Soul_Your_Beats.mp3
+COMM==eng=Angel Beats! OP01
+TALB=Single
+TIT2=My Soul, Your Beats!
+TPE1=Lia
+TRCK=1
+IDv2 tag info for Music/Japanese/Best/AnoHana_-_Aoi_Shiori.mp3
+COMM==eng=AnoHana OP01
+TALB=Single
+TIT2=Aoi Shiori
+TPE1=Galileo Galilei
+TRCK=1
+IDv2 tag info for Music/Japanese/Best/AnoHana_-_Secret_Base_Kimi_ga_Kureta_Mono_10_Years_After.mp3
+COMM==eng=AnoHana ED01
+TALB=Single
+TIT2=Secret Base ~Kimi ga Kureta Mono~ (10 Years After)
+TPE1=Ai Kayano
+TRCK=1
+IDv2 tag info for Music/Japanese/Best/Ano_Natsu_de_Matteru_-_Vidro_Moyou.mp3
+COMM==eng=Ano Natsu de Matteru ED01
+TALB=Single
+TIT2=Vidro Moyou
+TPE1=Nagi Yanagi
+TRCK=1
+IDv2 tag info for Music/Japanese/Best/Ao_Haru_Ride_-_Sekai_wa_Koi_ni_Ochiteiru2.mp3
+COMM==XXX=Ao Haru Ride OP01
+TDEN=2014-12-05 20:29:09
+TIT2=Sekai wa Koi ni Ochiteiru
+TPE1=CHiCO with Honeyworks
+TSSE=Lavf54.20.4
+TXXX=compatible_brands=iso6mp41
+TXXX=major_brand=dash
+TXXX=minor_version=0
+IDv2 tag info for Music/Japanese/Best/Ao_Haru_Ride_-_Sekai_wa_Koi_ni_Ochiteiru.mp3
+COMM==eng=Ao Haru Ride OP01
+TIT2=Sekai wa Koi ni Ochiteiru
+TPE1=CHiCO with HoneyWorks
+IDv2 tag info for Music/Japanese/Best/Aoki_Hagane_no_Arpeggio_Ars_Nova_-_Savior_of_Song.mp3
+COMM==eng=Aoki Hagane no Arpeggio Ars Nova OP01
+TALB=Single
+TIT2=Savior of Song
+TPE1=Nano
+TRCK=1
+IDv2 tag info for Music/Japanese/Best/Ao_no_Exorcist_-_In_My_World.mp3
+COMM==eng=Ao no Exorcist OP02
+TALB=Single
+TIT2=In My World
+TPE1=Rookiez is Punk'd
+TRCK=1
+IDv2 tag info for Music/Japanese/Best/Black_Bullet_-_Black_Bullet.mp3
+COMM==eng=Black Bullet OP01
+TIT2=Black Bullet
+TPE1=fripSide
+IDv2 tag info for Music/Japanese/Best/Bleach_-_After_Dark.mp3
+COMM==eng=Bleach OP07
+TALB=Single
+TIT2=After Dark
+TPE1=Asian Kung-Fu Generation
+TRCK=1
+IDv2 tag info for Music/Japanese/Best/Bleach_-_Alones.mp3
+COMM==eng=Bleach OP06
+TALB=Single
+TIT2=Alones
+TPE1=Aqua Timez
+TRCK=1
+IDv2 tag info for Music/Japanese/Best/Bleach_-_Aoi_Tori.mp3
+COMM==eng=Bleach ED27
+TALB=Single
+TIT2=Aoi Tori
+TPE1=Fumika
+TRCK=1
+IDv2 tag info for Music/Japanese/Best/Bleach_-_Asterisk.mp3
+COMM==eng=Bleach OP01
+TALB=Single
+TIT2=Asterisk
+TPE1=Orange Range
+TRCK=1
+IDv2 tag info for Music/Japanese/Best/Bleach_-_Change.mp3
+COMM==eng=Bleach OP12
+TALB=Single
+TIT2=Change
+TPE1=Miwa
+TRCK=1
+IDv2 tag info for Music/Japanese/Best/Bleach_-_Chu-Bura.mp3
+COMM==eng=Bleach OP08
+TALB=Single
+TIT2=Chu-Bura
+TPE1=Kelun
+TRCK=1
+IDv2 tag info for Music/Japanese/Best/Bleach_-_Daidai.mp3
+COMM==eng=Bleach ED12
+TALB=Single
+TIT2=Daidai
+TPE1=Chatmonchy
+TRCK=1
+IDv2 tag info for Music/Japanese/Best/Bleach_-_D-tecnolife.mp3
+COMM==eng=Bleach OP02
+TIT2=D-tecnolife
+TPE1=UVERworld
+IDv2 tag info for Music/Japanese/Best/Bleach_-_Echoes.mp3
+COMM==eng=Bleach ED24
+TALB=Single
+TIT2=Echoes
+TPE1=Universe
+TRCK=1
+IDv2 tag info for Music/Japanese/Best/Bleach_-_Hanabi.mp3
+COMM==eng=Bleach ED07
+TALB=Single
+TIT2=Hanabi
+TPE1=Ikimonogakari
+TRCK=1
+IDv2 tag info for Music/Japanese/Best/Bleach_-_Haruka_Kanata.mp3
+COMM==eng=Bleach ED28
+TALB=Single
+TIT2=Haruka Kanata
+TPE1=Unlimits
+TRCK=1
+IDv2 tag info for Music/Japanese/Best/Bleach_-_Harukaze.mp3
+COMM==eng=Bleach OP15
+TALB=Single
+TIT2=Harukaze
+TPE1=Scandal
+TRCK=1
+IDv2 tag info for Music/Japanese/Best/Bleach_-_Hitohira_no_Hanabira.mp3
+COMM==eng=Bleach ED17
+TALB=Single
+TIT2=Hitohira no Hanabira
+TPE1=Stereopony
+TRCK=1
+IDv2 tag info for Music/Japanese/Best/Bleach_-_Houki_Boshi.mp3
+COMM==eng=Bleach ED03
+TIT2=Houki Boshi
+TPE1=Younha
+IDv2 tag info for Music/Japanese/Best/Bleach_-_Ichirin_no_Hana.mp3
+COMM==eng=Bleach OP03
+TALB=Single
+TIT2=Ichirin no Hana
+TPE1=High and Mighty Color
+TRCK=1
+IDv2 tag info for Music/Japanese/Best/Bleach_-_Last_Moment.mp3
+COMM==eng=Bleach ED25
+TALB=Single
+TIT2=Last Moment
+TPE1=Spyair
+TRCK=1
+IDv2 tag info for Music/Japanese/Best/Bleach_-_Life.mp3
+COMM==eng=Bleach ED05
+TALB=Single
+TIT2=Life
+TPE1=Yui
+TRCK=1
+IDv2 tag info for Music/Japanese/Best/Bleach_-_Mad_Surfer.mp3
+COMM==eng=Bleach ED20
+TALB=Single
+TIT2=Mad Surfer
+TPE1=Kenichi Asai
+TRCK=1
+IDv2 tag info for Music/Japanese/Best/Bleach_-_Mask.mp3
+COMM==eng=Bleach ED30
+TALB=Single
+TIT2=Mask
+TPE1=Aqua Timez
+TRCK=1
+IDv2 tag info for Music/Japanese/Best/Bleach_Movie_2_-_Hikari_no_Rock.mp3
+COMM==eng=Bleach Movie 2 ED01
+TALB=Single
+TIT2=Hikari no Rock
+TPE1=Sambomaster
+TRCK=1
+IDv2 tag info for Music/Japanese/Best/Bleach_Movie_3_-_Koyoi_Tsuki_ga_Miezutomo.mp3
+COMM==eng=Bleach Movie 3 ED01
+TALB=Single
+TIT2=Koyoi, Tsuki ga Miezutomo
+TPE1=Porno Graffitti
+TRCK=1
+IDv2 tag info for Music/Japanese/Best/Bleach_Movie_4_-_Save_the_One_Save_the_All.mp3
+COMM==eng=Bleach Movie 4 ED01
+TALB=Single
+TIT2=Save the One, Save the All
+TPE1=T.M.Revolution
+TRCK=1
+IDv2 tag info for Music/Japanese/Best/Bleach_Movie_-_Sen_no_Yoru_wo_Koete.mp3
+COMM==eng=Bleach Movie ED01
+TALB=Single
+TIT2=Sen no Yoru wo Koete
+TPE1=Aqua Timez
+TRCK=1
+IDv2 tag info for Music/Japanese/Best/Bleach_-_Movin.mp3
+COMM==eng=Bleach ED08
+TALB=Single
+TIT2=Movin!!
+TPE1=Takacha
+TRCK=1
+IDv2 tag info for Music/Japanese/Best/Bleach_-_My_Pace.mp3
+COMM==eng=Bleach ED06
+TALB=Single
+TIT2=My Pace
+TPE1=SunSet Swish
+TRCK=1
+IDv2 tag info for Music/Japanese/Best/Bleach_OAV_-_Memories_in_the_Rain.mp3
+COMM==eng=Bleach OAV ED01
+TALB=Beat Collection -Ichigo Kurosaki-
+TIT2=Memories in the Rain
+TPE1=Masakazu Morita
+TRCK=3
+IDv2 tag info for Music/Japanese/Best/Bleach_-_Orange.mp3
+COMM==eng=Bleach ED15
+TALB=Single
+TIT2=Orange
+TPE1=Lil\'B
+TRCK=1
+IDv2 tag info for Music/Japanese/Best/Bleach_-_Ranbu_no_Melody.mp3
+COMM==eng=Bleach OP13
+TALB=Single
+TIT2=Ranbu no Melody
+TPE1=SID
+TRCK=1
+IDv2 tag info for Music/Japanese/Best/Bleach_-_Repray.mp3
+COMM==eng=Bleach ED29
+TALB=Re:pray
+TCON=Other
+TIT2=Re:pray
+TPE1=Aimer
+TRCK=1
+IDv2 tag info for Music/Japanese/Best/Bleach_-_Rolling_Star.mp3
+COMM==eng=Bleach OP05
+TALB=Single
+TIT2=Rolling Star
+TPE1=Yui
+TRCK=1
+IDv2 tag info for Music/Japanese/Best/Bleach_-_Sakurabito.mp3
+COMM==eng=Bleach ED21
+TALB=Single
+TIT2=Sakurabito
+TPE1=SunSet Swish
+TRCK=1
+IDv2 tag info for Music/Japanese/Best/Bleach_-_Shoujo_S.mp3
+COMM==eng=Bleach OP10
+TALB=Single
+TIT2=Shoujo S
+TPE1=Scandal
+TRCK=1
+IDv2 tag info for Music/Japanese/Best/Bleach_-_Sky_Chord_Otona_ni_Naru_Kimi_he.mp3
+COMM==eng=Bleach ED18
+TALB=Single
+TIT2=Sky Chord ~Otona ni Naru Kimi he~
+TPE1=Tsuji Shion
+TRCK=1
+IDv2 tag info for Music/Japanese/Best/Bleach_-_Song_For.mp3
+COMM==eng=Bleach ED26
+TALB=Single
+TIT2=Song For...
+TPE1=Rookiez is Punk'd
+TRCK=1
+IDv2 tag info for Music/Japanese/Best/Bleach_-_Tabidatsu_Kimi_e.mp3
+COMM==eng=Bleach ED22
+TALB=Single
+TIT2=Tabidatsu Kimi e
+TPE1=RSP
+TRCK=1
+IDv2 tag info for Music/Japanese/Best/Bleach_-_Thank_You.mp3
+COMM==eng=Bleach ED02
+TALB=Single
+TIT2=Thank You!!
+TPE1=Home Made Kazoku
+TRCK=1
+IDv2 tag info for Music/Japanese/Best/Bleach_-_Tonight_Tonight_Tonight.mp3
+COMM==eng=Bleach OP04
+TALB=Single
+TIT2=Tonight, Tonight, Tonight
+TPE1=Beat Crusaders
+TRCK=1
+IDv2 tag info for Music/Japanese/Best/Bleach_-_Tsumasaki.mp3
+COMM==eng=Bleach ED11
+TALB=Single
+TIT2=Tsumasaki
+TPE1=Oreskaband
+TRCK=1
+IDv2 tag info for Music/Japanese/Best/Bleach_-_Velonica.mp3
+COMM==eng=Bleach OP09
+TALB=Single
+TIT2=Velonica
+TPE1=Aqua Timez
+TRCK=1
+IDv2 tag info for Music/Japanese/Best/Boku_dake_ga_inai_machi_-_Sore_wa_Chiisana_Hikari_no_you_na.mp3
+APIC=cover front,  (image/jpeg, 154403 bytes)
+COMM==eng=http://anime.forunesia.com/
+COMM==ind=http://anime.forunesia.com/
+TALB=Sore wa Chiisana Hikari no you na
+TCON=Anime
+TENC=http://anime.forunesia.com/
+TIT2=Sore wa Chiisana Hikari no you na
+TPE1=Sayuri
+TPE2=Boku dake ga Inai Machi
+TRCK=1/7
+TYER=2016
+WOAR=http://anime.forunesia.com/
+IDv2 tag info for Music/Japanese/Best/Btooom_-_No_Pain_No_Game.mp3
+COMM==eng=Btooom! OP01
+TALB=Single
+TIT2=No Pain, No Game
+TPE1=Nano
+TRCK=1
+IDv2 tag info for Music/Japanese/Best/Code_Geass_-_Colors.mp3
+COMM==eng=Code Geass OP01
+TALB=Single
+TIT2=Colors
+TPE1=Flow
+TRCK=1
+IDv2 tag info for Music/Japanese/Best/Code_Geass_R2_-_O2.mp3
+COMM==eng=Code Geass R2 OP01
+TALB=Single
+TIT2=O2
+TPE1=Orange Range
+TRCK=1
+IDv2 tag info for Music/Japanese/Best/Code_Geass_R2_-_Shiawase_Neiro.mp3
+COMM==eng=Code Geass R2 ED01
+TALB=Panic Fancy
+TIT2=Shiawase Neiro
+TPE1=Orange Range
+TRCK=8
+IDv2 tag info for Music/Japanese/Best/Cowboy_Bebop_-_Tank.mp3
+TALB=Cowboy bebop OST 1
+TCON=Anime
+TIT2=Tank!
+TPE1=Cowboy Bebop
+TRCK=1
+IDv2 tag info for Music/Japanese/Best/Deadman_Wonderland_-_One_Reason.mp3
+COMM==eng=Deadman Wonderland OP01
+TALB=Single
+TIT2=One Reason
+TPE1=Fade
+TRCK=1
+IDv2 tag info for Music/Japanese/Best/Deadman_Wonderland_-_Shiny_Shiny.mp3
+COMM==eng=Deadman Wonderland ED01
+TALB=Single
+TIT2=Shiny Shiny
+TPE1=Nirgilis
+TRCK=2
+IDv2 tag info for Music/Japanese/Best/Death_Note_-_The_World.mp3
+COMM==eng=Death Note OP01
+TALB=Single
+TIT2=The World
+TPE1=Nightmare
+TRCK=1
+IDv2 tag info for Music/Japanese/Best/Death_Parade_-_Flyers.mp3
+COMM==eng=Death Parade OP01
+TIT2=Flyers
+TPE1=BRADIO
+IDv2 tag info for Music/Japanese/Best/Detective_Conan_-_Kimi_ga_Ireba.mp3
+COMM==eng=Detective Conan IN62
+TIT2=Kimi ga Ireba
+TPE1=Iori
+IDv2 tag info for Music/Japanese/Best/Detective_Conan_-_Kimi_to_Iu_Hikari.mp3
+COMM==eng=Detective Conan ED18
+TIT2=Kimi to Iu Hikari
+TPE1=Garnet Crow
+IDv2 tag info for Music/Japanese/Best/Devil_Survivor_2_The_Animation_-_Take_Your_Way.mp3
+COMM==eng=Devil Survivor 2 The Animation OP01
+TALB=Single
+TIT2=Take Your Way
+TPE1=livetune adding Fukase
+TRCK=1
+IDv2 tag info for Music/Japanese/Best/DGray-Man_-_Innocent_Sorrow.mp3
+COMM==eng=D.Gray-Man OP01
+TALB=Single
+TIT2=Innocent Sorrow
+TPE1=Abingdon Boys School
+TRCK=1
+IDv2 tag info for Music/Japanese/Best/Elfen_Lied_-_Lilium.mp3
+COMM==eng=Elfen Lied OP01
+TIT2=Lilium
+TPE1=Kumiko Noma
+IDv2 tag info for Music/Japanese/Best/Ergo_Proxy_-_Kiri.mp3
+COMM==eng=Ergo Proxy OP01
+TALB=OST 2
+TIT2=Kiri
+TPE1=Monoral
+TRCK=18
+IDv2 tag info for Music/Japanese/Best/Evangelion_-_Cruel_Angels_Thesis.mp3
+COMM==eng=Evangelion OP01
+TIT2=Cruel Angel's Thesis
+TPE1=Takahashi Youko
+IDv2 tag info for Music/Japanese/Best/Fairy_Tail_-_Masayume_Chasing.mp3
+COMM==eng=Fairy Tail OP15
+TIT2=Masayume Chasing
+TPE1=BOA
+IDv2 tag info for Music/Japanese/Best/Fairy_Tail_-_Tsuioku_Merry-Go-Round.mp3
+COMM==eng=Fairy Tail ED02
+TALB=Single
+TIT2=Tsuioku Merry-Go-Round
+TPE1=Onelifecrew
+TRCK=1
+IDv2 tag info for Music/Japanese/Best/Fatekaleid_liner_Prisma_Illya_-_Starlog.mp3
+COMM==eng=Fate/kaleid liner Prisma Illya OP01
+TALB=Single
+TIT2=Starlog
+TPE1=ChouCho
+TRCK=1
+IDv2 tag info for Music/Japanese/Best/FateStay_Night_Unlimited_Blade_Works_-_Brave_Shine.mp3
+COMM==eng=Fate/Stay Night Unlimited Blade Works OP02
+TIT2=Brave Shine
+TPE1=Aimer
+IDv2 tag info for Music/Japanese/Best/FateZero_2_-_To_The_Beginning.mp3
+COMM==eng=Fate/Zero 2 OP01
+TALB=Single
+TIT2=To The Beginning
+TPE1=Kalafina
+TRCK=1
+IDv2 tag info for Music/Japanese/Best/FateZero_-_Memoria.mp3
+COMM==eng=Fate/Zero ED01
+TALB=Single
+TIT2=Memoria
+TPE1=Aoi Eir
+TRCK=1
+IDv2 tag info for Music/Japanese/Best/FateZero_-_Oath_Sign.mp3
+COMM==eng=Fate/Zero OP01
+TALB=Single
+TIT2=Oath Sign
+TPE1=Lisa
+TRCK=1
+IDv2 tag info for Music/Japanese/Best/For_you_-_Tsuki_no_Hikari_ga_Furisosogu_Terrace.mp3
+COMM==eng=#NIPPONSEI @ IRC.RIZON.NET
+TALB=Shigatsu wa Kimi Uso Original Song Vol.1
+TCON=Anime
+TIT2=For you ~ Tsuki no Hikari ga Furisosogu Terrace
+TPE1=Sakura Ayane
+TRCK=4
+TYER=2015
+IDv2 tag info for Music/Japanese/Best/Free_-_Splash_Free.mp3
+COMM==eng=Free! ED01
+TALB=Single
+TIT2=Splash Free
+TPE1=Free Cast
+TRCK=1
+IDv2 tag info for Music/Japanese/Best/Fullmetal_Alchemist_Brotherhood_-_.mp3
+COMM==eng=Fullmetal Alchemist 2 OP01
+TALB=Single
+TIT2=Again
+TPE1=Yui
+TRCK=1
+IDv2 tag info for Music/Japanese/Best/Fullmetal_Alchemist_-_Rewrite.mp3
+COMM==eng=Fullmetal Alchemist OP04
+TALB=Single
+TIT2=Rewrite
+TPE1=Asian Kung-Fu Generation
+TRCK=1
+IDv2 tag info for Music/Japanese/Best/Fuwari.mp3
+COMM==eng=#NIPPONSEI @ IRC.RIZON.NET
+TALB=Kirameki
+TCON=Anime
+TIT2=Fuwari
+TPE1=wacci
+TRCK=2
+TYER=2014
+IDv2 tag info for Music/Japanese/Best/Fuyu_no_Epilogue.mp3
+COMM==eng=#NIPPONSEI @ IRC.RIZON.NET
+TALB=Hikaru Nara
+TCON=Anime
+TIT2=Fuyu no Epilogue
+TPE1=Goose house
+TRCK=2
+TYER=2014
+IDv2 tag info for Music/Japanese/Best/Gekkan_Shoujo_Nozaki-kun_-_Kimi_Janakya_Dame_Mitai.mp3
+COMM==eng=Gekkan Shoujo Nozaki-kun OP01
+TIT2=Kimi Janakya Dame Mitai
+TPE1=Masayoshi Ooishi
+IDv2 tag info for Music/Japanese/Best/Ghost_in_the_Shell_TV_-_Inner_Universe.mp3
+COMM==eng=Ghost in the Shell TV OP01
+TALB=OST 1
+TIT2=Inner Universe
+TPE1=Origa
+TRCK=11
+IDv2 tag info for Music/Japanese/Best/Ghost_in_the_Shell_TV_-_Lithium_Flower.mp3
+COMM==eng=Ghost in the Shell TV ED01
+TALB=OST 1
+TIT2=Lithium Flower
+TPE1=Scott Matthew
+TRCK=9
+IDv2 tag info for Music/Japanese/Best/Gintama_-_Sakura_Mitsutsuki.mp3
+COMM==eng=Gintama OP13
+TALB=Single
+TIT2=Sakura Mitsutsuki
+TPE1=Spyair
+TRCK=1
+IDv2 tag info for Music/Japanese/Best/Gintama_-_Samurai_Heart_Some_Like_it_Hot.mp3
+COMM==eng=Gintama ED17
+TALB=Single
+TIT2=Samurai Heart ~Some Like it Hot!!~
+TPE1=Spyair
+TRCK=1
+IDv2 tag info for Music/Japanese/Best/Golden_Time_-_Golden_Time.mp3
+COMM==eng=Golden Time OP01
+TALB=Single
+TIT2=Golden Time
+TPE1=Horie Yui
+TRCK=1
+IDv2 tag info for Music/Japanese/Best/Golden_Time_-_Sweet__Sweet_Cherry.mp3
+COMM==eng=Golden Time ED01
+TALB=Golden Time
+TIT2=Sweet & Sweet Cherry
+TPE1=Horie Yui
+TRCK=2
+IDv2 tag info for Music/Japanese/Best/Golden_Time_-_TheWorldsEnd.mp3
+COMM==eng=Golden Time OP02
+TIT2=TheWorld'sEnd
+TPE1=Yui Horie
+IDv2 tag info for Music/Japanese/Best/Guilty_Crown_-_My_Dearest.mp3
+COMM==eng=Guilty Crown OP01
+TALB=Single
+TIT2=My Dearest
+TPE1=Supercell
+TRCK=1
+IDv2 tag info for Music/Japanese/Best/Guilty_Crown_-_The_Everlasting_Guilty_Crown.mp3
+COMM==eng=Guilty Crown OP02
+TALB=Single
+TIT2=The Everlasting Guilty Crown
+TPE1=Egoist
+TRCK=1
+IDv2 tag info for Music/Japanese/Best/Hajime_no_Ippo_New_Challenger_-_Hekireki.mp3
+COMM==eng=Hajime no Ippo New Challenger OP01
+TALB=New Dawn
+TIT2=Hekireki
+TPE1=Last Alliance
+TRCK=1
+IDv2 tag info for Music/Japanese/Best/Hellsing_-_Logos_Naki_World.mp3
+COMM==eng=Hellsing OP01
+TIT2=Logos Naki World
+TPE1=RavenWings
+IDv2 tag info for Music/Japanese/Best/Higurashi_no_Naku_Koro_ni_-_Higurashi_no_Naku_Koro_ni.mp3
+COMM==eng=Higurashi no Naku Koro ni OP01
+TIT2=Higurashi no Naku Koro ni
+TPE1=Eiko Shimamiya
+IDv2 tag info for Music/Japanese/Best/Hunter_x_Hunter_2011_-_Just_Awake.mp3
+COMM==eng=Hunter x Hunter (2011) ED01
+TALB=Single
+TIT2=Just Awake
+TPE1=Fear, and Loathing in Las Vegas
+TRCK=1
+IDv2 tag info for Music/Japanese/Best/Hyouka_-_Yasashisa_no_Riyuu.mp3
+COMM==eng=Hyouka OP01
+TALB=Single
+TIT2=Yasashisa no Riyuu
+TPE1=Choucho
+TRCK=1
+IDv2 tag info for Music/Japanese/Best/Inuyasha_The_Final_Act_-_Diamond.mp3
+COMM==eng=Inuyasha ~The Final Act~ ED02
+TALB=Single
+TIT2=Diamond
+TPE1=Alan
+TRCK=1
+IDv2 tag info for Music/Japanese/Best/Inuyasha_The_Final_Act_-_Kimi_ga_Inai_Mirai.mp3
+COMM==eng=Inuyasha ~The Final Act~ OP01
+TALB=Single
+TIT2=Kimi ga Inai Mirai
+TPE1=Do As Infinity
+TRCK=1
+IDv2 tag info for Music/Japanese/Best/Inuyasha_The_Final_Act_-_Tooi_Michi_no_Saki_de.mp3
+COMM==eng=Inuyasha ~The Final Act~ ED03
+TALB=Single
+TIT2=Tooi Michi no Saki de
+TPE1=Ai Takekawa
+TRCK=1
+IDv2 tag info for Music/Japanese/Best/Inuyasha_The_Final_Act_-_With_You.mp3
+COMM==eng=Inuyasha ~The Final Act~ ED01
+TALB=Hide-away
+TIT2=With You
+TPE1=AAA
+TRCK=4
+IDv2 tag info for Music/Japanese/Best/Kirameki.mp3
+COMM==eng=#NIPPONSEI @ IRC.RIZON.NET
+TALB=Kirameki
+TCON=Anime
+TIT2=Kirameki
+TPE1=wacci
+TRCK=1
+TYER=2014
+IDv2 tag info for Music/Japanese/Best/Kiseijuu_Sei_no_Kakuritsu_-_ITS_THE_RIGHT_TIME.mp3
+COMM==eng=Kiseijuu ~Sei no Kakuritsu~ ED01
+TIT2=IT'S THE RIGHT TIME
+TPE1=Daichi Miura
+IDv2 tag info for Music/Japanese/Best/Komorebi_iro_no_Kioku.mp3
+COMM==eng=#NIPPONSEI @ IRC.RIZON.NET
+TALB=Yasashisa no Riyuu
+TCON=Anime
+TIT2=Komorebi iro no Kioku
+TPE1=ChouCho
+TRCK=2
+TYER=2012
+IDv2 tag info for Music/Japanese/Best/Kuroko_no_Basket_2_-_The_Other_self.mp3
+COMM==eng=Kuroko no Basket 2 OP01
+TALB=Single
+TIT2=The Other self
+TPE1=GRANRODEO
+TRCK=1
+IDv2 tag info for Music/Japanese/Best/Kyoukai_no_Kanata_-_Daisy.mp3
+COMM==eng=Kyoukai no Kanata ED01
+TALB=Single
+TIT2=Daisy
+TPE1=STEREO DIVE FOUNDATION
+TRCK=1
+IDv2 tag info for Music/Japanese/Best/Kyoukai_no_Kanata_-_Kyoukai_no_Kanata.mp3
+COMM==eng=Kyoukai no Kanata OP01
+TALB=Single
+TIT2=Kyoukai no Kanata
+TPE1=Minori Chihara
+TRCK=1
+IDv2 tag info for Music/Japanese/Best/Lain_-_Duvet.mp3
+COMM==eng=Lain OP01
+TALB=OST
+TIT2=Duvet
+TPE1=Boa
+TRCK=15
+IDv2 tag info for Music/Japanese/Best/Mahouka_Koukou_no_Rettousei_-_Rising_Hope.mp3
+COMM==eng=Mahouka Koukou no Rettousei OP01
+TIT2=Rising Hope
+TPE1=LiSA
+IDv2 tag info for Music/Japanese/Best/Mirai_Nikki_-_Kuusou_Mesorogiwi.mp3
+COMM==eng=Mirai Nikki OP01
+TALB=Single
+TIT2=Kuusou Mesorogiwi
+TPE1=Yousei Teikoku
+IDv2 tag info for Music/Japanese/Best/Mirror_-_The_Irregular_at_MAgc_High_School.mp3
+COMM==XXX=The Irregular at Magic High School ED01
+TDEN=2014-08-04 07:16:52
+TIT2=Mirror
+TSSE=Lavf53.32.100
+TXXX=compatible_brands=isommp42
+TXXX=major_brand=mp42
+TXXX=minor_version=0
+IDv2 tag info for Music/Japanese/Best/Nagi_no_Asakura-Intention_Propellanet.mp3
+COMM==eng=#NIPPONSEI @ IRC.RIZON.NET
+TALB=Mitsuba no Musubime
+TCON=Anime
+TIT2=Intention Propellanet
+TPE1=Yanagi Nagi
+TRCK=2
+TYER=2014
+IDv2 tag info for Music/Japanese/Best/Nagi_no_Asakura-Mitsuba_no_Musubime.mp3
+COMM==eng=#NIPPONSEI @ IRC.RIZON.NET
+TALB=Mitsuba no Musubime
+TCON=Anime
+TIT2=Mitsuba no Musubime
+TPE1=Yanagi Nagi
+TRCK=1
+TYER=2014
+IDv2 tag info for Music/Japanese/Best/Nagi_no_Asukara_-_Aqua_Terrarium2.mp3
+COMM==eng=Nagi no Asukara ED01
+TALB=Single
+TIT2=Aqua Terrarium
+TPE1=Yanagi Nagi
+TRCK=1
+IDv2 tag info for Music/Japanese/Best/Nagi_no_Asukara_-_Aqua_Terrarium.mp3
+TALB=Single
+TCMP=0
+TDEN=2015-02-26 15:29:07
+TDRC=
+TIT2=Aqua Terrarium
+TPE1=Yanagi Nagi
+TRCK=-1
+TSSE=Lavf54.20.4
+TXXX=compatible_brands=iso6mp41
+TXXX=major_brand=dash
+TXXX=minor_version=0
+IDv2 tag info for Music/Japanese/Best/Nagi_no_Asukara_-_Ebb_and_Flow.mp3
+COMM==eng=Nagi no Asukara OP02
+TALB=Single
+TIT2=Ebb and Flow
+TPE1=Ray
+TRCK=1
+IDv2 tag info for Music/Japanese/Best/Nagi_no_Asukara_-_Lull_Soshite_Bokura_wa.mp3
+COMM==eng=Nagi no Asukara OP01
+TALB=Single
+TIT2=Lull ~Soshite Bokura wa~
+TPE1=Ray
+TRCK=1
+IDv2 tag info for Music/Japanese/Best/Naruto_-_Haruka_Kanata.mp3
+COMM==eng=Naruto OP02
+TALB=OST 2
+TIT2=Haruka Kanata
+TPE1=Asian Kung-Fu Generation
+TRCK=1
+IDv2 tag info for Music/Japanese/Best/Naruto_Shippuden_-_Sayonara_Memories.mp3
+COMM==eng=Naruto Shippuden ED24
+TIT2=Sayonara Memories
+TPE1=7!! Oops
+IDv2 tag info for Music/Japanese/Best/Naruto_Shippuuden_-_Blue_Bird.mp3
+COMM==eng=Naruto Shippuuden OP03
+TALB=Single
+TIT2=Blue Bird
+TPE1=Ikimonogakari
+TRCK=1
+IDv2 tag info for Music/Japanese/Best/Naruto_Shippuuden_-_By_My_Side.mp3
+COMM==eng=Naruto Shippuuden ED20
+TALB=Single
+TIT2=By My Side
+TPE1=Hemenway
+TRCK=1
+IDv2 tag info for Music/Japanese/Best/Naruto_Shippuuden_-_Cascade.mp3
+COMM==eng=Naruto Shippuuden ED21
+TALB=Single
+TIT2=Cascade
+TPE1=Unlimits
+TRCK=1
+IDv2 tag info for Music/Japanese/Best/Naruto_Shippuuden_-_Closer.mp3
+COMM==eng=Naruto Shippuuden OP04
+TALB=Single
+TIT2=Closer
+TPE1=Inoue Joe
+TRCK=1
+IDv2 tag info for Music/Japanese/Best/Naruto_Shippuuden_-_Diver.mp3
+COMM==eng=Naruto Shippuuden OP08
+TALB=Single
+TIT2=Diver
+TPE1=NICO Touches the Walls
+TRCK=1
+IDv2 tag info for Music/Japanese/Best/Naruto_Shippuuden_-_Hotaru_no_Hikari.mp3
+COMM==eng=Naruto Shippuuden OP05
+TALB=Single
+TIT2=Hotaru no Hikari
+TPE1=Ikimonogakari
+TRCK=1
+IDv2 tag info for Music/Japanese/Best/Naruto_Shippuuden_Movie_6_-_Sore_de_wa_Mata_Ashita.mp3
+COMM==eng=Naruto Shippuuden Movie 6 ED01
+TALB=Single
+TIT2=Sore de wa, Mata Ashita
+TPE1=Asian Kung-Fu Generation
+IDv2 tag info for Music/Japanese/Best/Naruto_Shippuuden_-_Sayonara_Memory.mp3
+APIC=other,  (image/jpeg, 80127 bytes)
+COMM==eng=Naruto Shippuuden
+TALB=さよならメモリー
+TCON=J-Pop
+TCOP=â 2013 Epic Records Japan Inc.
+TDRC=2013
+TIT2=さよならメモリー
+TPE1=7!!(セブンウップス)
+TPUB=www.r3z4prof.me
+TRCK=1
+TXXX=TRACKTOTAL=4
+IDv2 tag info for Music/Japanese/Best/Naruto_Shippuuden_-_Toumei_Datta_Sekai.mp3
+COMM==eng=Naruto Shippuuden OP07
+TALB=Single
+TIT2=Toumei Datta Sekai
+TPE1=Motohiro Hata
+TRCK=1
+IDv2 tag info for Music/Japanese/Best/No_Game_No_Life_-_This_Game.mp3
+COMM==eng=No Game No Life OP01
+TIT2=This Game
+TPE1=Suzuki Konomi
+IDv2 tag info for Music/Japanese/Best/Noragami_-_Goya_no_Machiawase.mp3
+COMM==eng=Noragami OP01
+TALB=Single
+TIT2=Goya no Machiawase
+TPE1=Hello Sleepwalkers
+TRCK=1
+IDv2 tag info for Music/Japanese/Best/One_Punch_Man_-_THE_HERO__Okoreru_Kobushi_ni_Hi_wo_Tsukero.mp3
+COMM==eng=One Punch Man
+TIT2=THE HERO !! ~Okoreru Kobushi ni Hi wo Tsukero~
+TPE1=JAM Project
+IDv2 tag info for Music/Japanese/Best/Ookiku_Furikabutte_-_Medaka_no_Mita_Niji.mp3
+COMM==eng=Ookiku Furikabutte ED01
+TALB=Single
+TIT2=Medaka no Mita Niji
+TPE1=Kozue Takada
+TRCK=1
+IDv2 tag info for Music/Japanese/Best/Ookiku_Furikabutte_-_Seishun_Line.mp3
+COMM==eng=Ookiku Furikabutte OP02
+TALB=Natsuzora Graffiti
+TIT2=Seishun Line
+TPE1=Ikimonogakari
+TRCK=2
+IDv2 tag info for Music/Japanese/Best/Orange.mp3
+COMM==eng=#NIPPONSEI @ IRC.RIZON.NET
+TALB=Orange
+TCON=Anime
+TIT2=Orange
+TPE1=7!!
+TRCK=1
+TYER=2015
+IDv2 tag info for Music/Japanese/Best/Psycho-Pass_2_-_Enigmatic_Feeling.mp3
+COMM==eng=Psycho-Pass 2 OP01
+TIT2=Enigmatic Feeling
+TPE1=Ling Tosite Sigure
+IDv2 tag info for Music/Japanese/Best/Psycho-Pass_-_Abnormalize.mp3
+COMM==eng=Psycho-Pass OP01
+TALB=Single
+TIT2=Abnormalize
+TPE1=Ling Tosite Sigure
+TRCK=1
+IDv2 tag info for Music/Japanese/Best/Psycho-Pass_-_All_Alone_With_You.mp3
+COMM==eng=Psycho-Pass ED02
+TALB=Single
+TIT2=All Alone With You
+TPE1=Egoist
+TRCK=1
+IDv2 tag info for Music/Japanese/Best/Psycho-Pass_-_Namae_no_Nai_Kaibutsu.mp3
+COMM==eng=Psycho-Pass ED01
+TALB=Single
+TIT2=Namae no Nai Kaibutsu
+TPE1=Egoist
+TRCK=2
+IDv2 tag info for Music/Japanese/Best/Sakurasou_no_Pet_na_Kanojo_-_Days_of_Dash.mp3
+COMM==eng=Sakurasou no Pet na Kanojo ED01
+TALB=Single
+TIT2=Days of Dash
+TPE1=Konomi Suzuki
+TRCK=1
+IDv2 tag info for Music/Japanese/Best/Samurai_Flamenco_-_Just_one_Life.mp3
+COMM==eng=Samurai Flamenco OP01
+TALB=Single
+TIT2=Just one Life
+TPE1=Spyair
+TRCK=1
+IDv2 tag info for Music/Japanese/Best/Sentimental_Rain_-_Ai_no_Kanashimi.mp3
+COMM==eng=#NIPPONSEI @ IRC.RIZON.NET
+TALB=Shigatsu wa Kimi Uso Original Song Vol.1
+TCON=Anime
+TIT2=Sentimental Rain ~ Ai no Kanashimi
+TPE1=Hanae Natsuki
+TRCK=2
+TYER=2015
+IDv2 tag info for Music/Japanese/Best/Shigatsu_wa_Kimi_no_Uso_-_Hikaru_Nara.mp3
+COMM==eng=#NIPPONSEI @ IRC.RIZON.NET
+TALB=Hikaru Nara
+TCON=Anime
+TIT2=Hikaru Nara
+TPE1=Goose house
+TRCK=1
+TYER=2014
+IDv2 tag info for Music/Japanese/Best/Shigatsu_wa_Kimi_no_Uso_-_My_Truth.mp3
+APIC=cover front, Cover (front) (image/jpeg, 4627 bytes)
+TALB=youtube.com/watch?v=bP7CFyK__3U
+TIT2=Kaori Miyazono 『My Truth Rondo Capriccioso』 (Shigatsu wa Kimi no Uso) HD/HQ
+IDv2 tag info for Music/Japanese/Best/Shigatsu_wa_Kimi_no_Uso_-_Nanairo_Symphony.mp3
+APIC=other,  (image/jpeg, 56711 bytes)
+COMM==eng=published by eimusics.com
+TALB=Nanairo Symphony
+TCON=J-Pop
+TIT2=Nanairo Symphony
+TPE1=Coala Mode
+TPE2=Coala Mode
+TRCK=1
+TYER=2015
+IDv2 tag info for Music/Japanese/Best/Shingeki_no_Kyojin_-_Great_Escape.mp3
+COMM==eng=Shingeki no Kyojin ED02
+TALB=Great Escape
+TIT2=Great Escape
+TPE1=Cinema Staff
+TRCK=1
+IDv2 tag info for Music/Japanese/Best/Shingeki_no_Kyojin_-_Guren_no_Yumiya.mp3
+COMM==eng=Shingeki no Kyojin OP01
+TALB=Single
+TIT2=Guren no Yumiya
+TPE1=Linked Horizon
+TRCK=1
+IDv2 tag info for Music/Japanese/Best/Shokugeki_no_Soma_season_2_ending.mp3
+APIC=cover front,  (image/jpeg, 5821 bytes)
+TIT2=Food Wars! Shokugeki no Soma season 2 ending
+TSSE=Lavf56.19.100
+TXXX=compatible_brands=isommp42
+TXXX=major_brand=mp42
+TXXX=minor_version=0
+IDv2 tag info for Music/Japanese/Best/Shokugeki_no_Soma_-_Spice.mp3
+COMM==eng=Shokugeki no Soma ED01
+TIT2=Spice
+TPE1=Tokyo Karan Koron
+IDv2 tag info for Music/Japanese/Best/Shokugeki_no_Souma_-_Kibou_no_Uta.mp3
+COMM==eng=Shokugeki no Souma OP01
+TIT2=Kibou no Uta
+TPE1=ULTRATOWER
+IDv2 tag info for Music/Japanese/Best/Space_Battleship_Yamato_2199_-_Kioku_no_Hikari.mp3
+COMM==eng=Space Battleship Yamato 2199 ED04
+TALB=Single
+TIT2=Kioku no Hikari
+TPE1=Kokia
+TRCK=1
+IDv2 tag info for Music/Japanese/Best/SteinsGate_-_Hacking_to_the_Gate.mp3
+COMM==eng=Steins;Gate OP01
+TALB=Single
+TIT2=Hacking to the Gate
+TPE1=Itou Kanako
+TRCK=1
+IDv2 tag info for Music/Japanese/Best/Suisei_no_Gargantia_-_Sora_to_Kimi_no_Message.mp3
+COMM==eng=Suisei no Gargantia ED01
+TIT2=Sora to Kimi no Message
+TPE1=Choucho
+TRCK=1
+IDv2 tag info for Music/Japanese/Best/Sword_Art_Online_2_-_Courage.mp3
+COMM==eng=Sword Art Online II OP02
+TIT2=Courage
+TPE1=Haruka Tomatsu
+IDv2 tag info for Music/Japanese/Best/Sword_Art_Online_2_-_Ignite.mp3
+COMM==eng=Sword Art Online II OP01
+TIT2=Ignite
+TPE1=Eir Aoi
+IDv2 tag info for Music/Japanese/Best/Sword_Art_Online_2_-_Shirushi.mp3
+COMM==eng=Sword Art Online 2 ED03
+TIT2=Shirushi
+TPE1=LiSA
+IDv2 tag info for Music/Japanese/Best/Sword_Art_Online_2_-_Startear.mp3
+COMM==eng=Sword Art Online II ED01
+TIT2=Startear
+TPE1=Luna Haruna
+IDv2 tag info for Music/Japanese/Best/Sword_Art_Online_-_Crossing_Field.mp3
+COMM==eng=Sword Art Online OP01
+TALB=Single
+TIT2=Crossing Field
+TPE1=Lisa
+TRCK=1
+IDv2 tag info for Music/Japanese/Best/Sword_Art_Online_-_Innocence.mp3
+COMM==eng=Sword Art Online OP02
+TALB=Single
+TIT2=Innocence
+TPE1=Aoi Eir
+TRCK=1
+IDv2 tag info for Music/Japanese/Best/Sword_Art_Online_-_Overfly.mp3
+COMM==eng=Sword Art Online ED02
+TALB=Single
+TIT2=Overfly
+TPE1=Haruna Luna
+TRCK=1
+IDv2 tag info for Music/Japanese/Best/Sword_Art_Online_-_Yume_Sekai.mp3
+COMM==eng=Sword Art Online ED01
+TALB=Single
+TIT2=Yume Sekai
+TPE1=Haruka Tomatsu
+TRCK=1
+IDv2 tag info for Music/Japanese/Best/the_end_of_the_world-asaeda.mp3
+TDEN=2012-01-28 12:20:51
+TSSE=Lavf52.87.1
+TXXX=compatible_brands=isommp42
+TXXX=major_brand=mp42
+TXXX=minor_version=0
+IDv2 tag info for Music/Japanese/Best/To_Aru_Kagaku_no_Railgun_S_-_Sisters_Noise.mp3
+COMM==eng=To Aru Kagaku no Railgun S OP01
+TALB=Single
+TIT2=Sister's Noise
+TPE1=fripSide
+TRCK=1
+IDv2 tag info for Music/Japanese/Best/Tokyo_Ghoul_-_Unravel.mp3
+COMM==eng=Tokyo Ghoul OP01
+TIT2=Unravel
+TPE1=TK from Ling Tosite Sigure
+IDv2 tag info for Music/Japanese/Best/Tokyo_Ravens_-_Kimi_ga_Emu_Yuugure.mp3
+COMM==eng=Tokyo Ravens ED01
+TALB=Single
+TIT2=Kimi ga Emu Yuugure
+TPE1=Nanjou Yoshino
+TRCK=1
+IDv2 tag info for Music/Japanese/Best/Tonari_no_Kaibutsu-kun_-_White_Wishes.mp3
+COMM==eng=Tonari no Kaibutsu-kun ED01
+TALB=Single
+TIT2=White Wishes
+TPE1=9nine
+TRCK=1
+IDv2 tag info for Music/Japanese/Best/Vampire_Knight_-_Still_Doll.mp3
+COMM==eng=Vampire Knight ED01
+TALB=Single
+TIT2=Still Doll
+TPE1=Kanon Wakeshima
+TRCK=1
+IDv2 tag info for Music/Japanese/Best/Welcome_to_the_NHK_-_Puzzle.mp3
+COMM==eng=Welcome to the NHK! OP01
+TALB=Single
+TIT2=Puzzle
+TPE1=Round Table feat. Nino
+TRCK=1
+IDv2 tag info for Music/Japanese/Best/Wolfs_Rain_-_Stray.mp3
+COMM==eng=Wolf's Rain OP01
+TALB=OST 1
+TIT2=Stray
+TPE1=Steve Conte
+TRCK=1
+IDv2 tag info for Music/Japanese/Best/Yahari_Ore_no_Seishun_Love_Come_wa_Machigatteiru_-_Yukitoki.mp3
+COMM==eng=Yahari Ore no Seishun Love Come wa Machigatteiru OP01
+TALB=Single
+TIT2=Yukitoki
+TPE1=Nagi Yanagi
+TRCK=1
+IDv2 tag info for Music/Japanese/Best/Yojou-Han_Shinwa_Taikei_-_Maigo_Inu_to_Ame_no_Beat.mp3
+COMM==eng=Yojou-Han Shinwa Taikei OP01
+TALB=Single
+TIT2=Maigo Inu to Ame no Beat
+TPE1=Asian Kung-Fu Generation
+TRCK=1
+IDv2 tag info for Music/Japanese/Best/Yuna_Ito_-_Alone_Again.mp3
+TDEN=2014-03-30 15:30:36
+TSSE=Lavf53.32.100
+TXXX=compatible_brands=isommp42
+TXXX=major_brand=mp42
+TXXX=minor_version=0

@@ -1,0 +1,13 @@
+import os
+import subprocess
+src = "/home/nascarsayan/Music/Japanese/best_links/"
+dest = "/home/nascarsayan/Music/Japanese/"
+f_ls = subprocess.check_output("ls " + src, shell = True).split("\n")
+f_ls.pop(-1)
+s = ""
+for f in f_ls:
+    f_src = subprocess.check_output("find " + dest + "src/" + " -name '" + str(f) + "'", shell = True).split("\n")
+    f_src.pop(-1)
+    s = s + str(f_src[0]) + " "
+    os.system("ln -s " + str(f_src[0]) + " " + dest + "best_links/" + str(f))
+os.system("vlc " + s)

@@ -1,0 +1,90 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <complex.h>
+#include <math.h>
+
+#define PI 3.141592653589793
+typedef complex double cmp;
+void fft(int , cmp *, cmp*);
+
+int main(int argc, char *argv[])
+{
+	if (argc == 1)
+	{
+		printf("data is not provided as a command line argument please give the input in the specified format\n");
+		return 0;
+	}
+
+	int len,i,j;
+	sscanf(argv[1]," %d", &len);
+	cmp *ans, *a;
+	ans = (cmp *)calloc(len, sizeof(cmp));
+	a = (cmp *)calloc(len , sizeof(cmp));
+
+	printf("The generated polynomial is: \n");
+	for(i = 0; i < len; i++)
+	{
+		a[i] = rand() % 21 - 10;
+		printf("%.2f*x^(%d)\t", creal(a[i]),i);
+	}
+	
+	printf("\n\n\n******************** 3 Way Decomposition ******************\n\n\n");
+	fft(len, a, ans);
+	for (i = 0; i < len; i++)
+	{
+		printf("value at root:%d = %f + %fi\n",i,creal(ans[i]), cimag(ans[i]));
+	}
+	
+	printf(" \n\n\n***************Evaluation by HORNER'S METHOD ******************\n");
+
+	for (i=0; i < len ;i++)
+	{
+		complex c;
+		c = 0;
+		for (j = len - 1;j >= 0; j--)
+		{
+			c *= (cos(2*PI/len*i) +  sin(2*PI/len*i)*I);
+			c += a[j];
+		}
+		printf("value at root:%d = %f + %fi\n",i,creal(c), cimag(c));
+	}
+	return 0;
+}
+
+
+void fft(int n, cmp * a, cmp * f)
+{
+	if (n == 1)
+	{
+		f[0] = a[0];
+		return;
+	}
+	int j, k, sft;
+	sft = n/3;
+	cmp omegak, omega, alpha, * p1, * p2,* p3,* f1,* f2,* f3;
+	f1 = (cmp *)calloc(n/3, sizeof(cmp));
+	f2 = (cmp *)calloc(n/3, sizeof(cmp));
+	f3 = (cmp *)calloc(n/3, sizeof(cmp));
+	p1 = (cmp *)calloc(n/3, sizeof(cmp));
+	p2 = (cmp *)calloc(n/3, sizeof(cmp));
+	p3 = (cmp *)calloc(n/3, sizeof(cmp));
+	for (j=k=0; k < n; j++, k+=3)
+	{
+		p1[j] = a[k];
+		p2[j] = a[k+1];
+		p3[j] = a[k+2];
+	}
+	fft(n/3, p1, f1);
+	fft(n/3, p2, f2);
+	fft(n/3, p3, f3);
+	omegak = 1;
+	omega = cos(2*PI/n) +  sin(2*PI/n)*I;
+	alpha = cos(2*PI/3) +  sin(2*PI/3)*I;
+
+	for(k=0; k<n/3; k++, omegak *= omega)
+	{
+		f[k]         = f1[k] +             omegak*f2[k] +             omegak*omegak*f3[k];
+		f[k + sft]   = f1[k] +       alpha*omegak*f2[k] + alpha*alpha*omegak*omegak*f3[k];
+		f[k + 2*sft] = f1[k] + alpha*alpha*omegak*f2[k] +       alpha*omegak*omegak*f3[k];
+	}
+}

@@ -1,0 +1,14 @@
+import os
+import subprocess
+os.chdir("/home/nascarsayan/Music/Japanese/src/")
+path = "/home/nascarsayan/Pictures/MusicCoverArt/Album/"
+d_ls = subprocess.check_output("ls", shell = True).split("\n")
+d_ls.pop(-1)
+for d in d_ls:
+    f_ls = subprocess.check_output("ls " + str(d), shell = True).split("\n")
+    f_ls.pop(-1)
+    for f in f_ls:
+        pic = subprocess.check_output("ls " + path + str(d) + "| grep googli", shell = True).split("\n")
+        pic.pop(-1)
+        os.system("mid3v2 -p " + path + str(d) + "/" + str(pic[0]) + " " + str(d) + "/" + str(f))
+        #os.system("mid3v2 --delete-frames=APIC " + str(d) + "/" + str(f))

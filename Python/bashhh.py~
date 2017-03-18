@@ -1,0 +1,4 @@
+import os
+import subprocess
+os.chdir("/home/nascarsayan/Music/Japanese/src/")
+os.system("[ -d 'Muna' ] || mkdir Muna")

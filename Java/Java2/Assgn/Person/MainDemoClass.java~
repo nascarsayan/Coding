@@ -1,0 +1,9 @@
+public class MainDemoClass
+{
+  public static void main(String args[])
+  {
+    Person p = new Person("Shashi", "20");
+    Student stu = new Student("Vishal", "19", "15CS30039", "Kgp");
+    Employee e = new Employee("Bhanu", 25, 15, "20170101");
+  }
+}

@@ -1,0 +1,87 @@
+@startuml
+skinparam packageStyle rectangle
+skinparam defaultFontName Ubuntu
+skinparam classFontSize 12
+
+skinparam usecase {
+	BackgroundColor #ED764D
+	BorderColor White
+	RectangleColor #E95420
+	ArrowColor #772953
+	ActorBorderColor black
+}
+:Match\nOfficial: as MO
+:Team\nManager: as TM
+:Teams: as T
+:Organiser: as OR
+:Others: as OT
+
+Rectangle InterIIT_Tournamment_Management_System{
+
+(Match Official's\nLogin) as MOL
+(Match Official's\nTasks) as MOT
+
+(Team Manager's\nLogin) as TML
+(Team Manager's\nTasks) as TMT
+
+(Teams'\nLogin) as TL
+(Teams'\nTasks) as TT
+
+(Organiser's\nLogin) as ORL
+(Organiser's\nTasks) as ORT
+
+(Others'\nLogin) as OTL
+(Others'\nTasks) as OTT
+
+(View Schedule) as VSch
+(View Scoreboard) as VScr
+
+MOT <|-- VSch
+ORT <|-- VSch
+TMT <|-- VSch
+TT <|-- VSch
+OTT <|-- VSch
+
+MOT <|-- VScr
+ORT <|-- VScr
+TMT <|-- VScr
+TT <|-- VScr
+OTT <|-- VScr
+
+
+MO -> MOL
+MOL .> MOT : <<include>>
+MOT <|-- (Request for\nScoreboard Update)
+(Request for\nScoreboard Update) .> (Submit\nScoreboard Details) : <<include>>
+(Request for\nScoreboard Update) <. (Update Scoreboard) : <<extend>>
+(Update Scoreboard) --|> ORT
+
+TM -> TML
+TML .> TMT : <<include>>
+TMT <|-- (Reporting of\nPlayers)
+(Reporting of\nPlayers) <. (Check-in) : <<extend>>
+(Check-in) .> (Submission of\nBiodata) : <<include>>
+(Check-in) --|> TT
+TMT <|-- (Lodge Complaint)
+(Lodge Complaint) <. (Address Complaint) : <<extend>>
+(Address Complaint) --|> ORT
+
+T -> TL
+TL .> TT : <<include>>
+TT <|-- (Request for Kits)
+(Request for Kits) <. (Give Kits) : <<extend>>
+(Give Kits) .> (Check Inventory\nfor Kits) : <<include>>
+(Give Kits) --|> ORT
+
+OR -> ORL
+ORL .> ORT : <<include>>
+(Change Schedule) --|> ORT
+(Change Schedule) .> (Submit\nOld Fixture) : <<include>>
+(Change Schedule) .> (Submit\nNew Fixture) : <<include>>
+
+OT -> OTL
+OTL .> OTT : <<include>>
+
+}
+
+@enduml

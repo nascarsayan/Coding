@@ -1,0 +1,22 @@
+@startuml
+left to right direction
+rectangle HMS{
+patient --[#red]- (register)
+doctor -[#red]-- (register)
+employee --[#red]- (register)
+patient -[#green]-- (login)
+doctor -[#green]-- (login)
+employee --[#green]- (login)
+(incorrect id/passsword) .up.> (login) :<<extend>>
+(employee login) .up.> (login) :<<extends>>
+(doctor login) .up.> (login) :<<extends>>
+(patient login) .up.> (login) :<<extends>>
+(employee login) ..> (appoint) :<<include>>
+(employee login) ..> (discharge) :<<include>>
+(doctor login) ..> (prescribe patient) :<<include>>
+(doctor login) ..> (patients list) :<<include>>
+(patient login) ..> (request appointment) :<<include>>
+(patient login) ..> (download report) :<<include>>
+(patient login) ..> (request discharge) :<<include>>
+}
+@enduml

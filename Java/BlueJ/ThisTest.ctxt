@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ThisTest()
+comment1.params=num
+comment1.target=ThisTest(int)
+comment2.params=
+comment2.target=void\ greet()
+comment3.params=
+comment3.target=void\ print()
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5

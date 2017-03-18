@@ -1,0 +1,11 @@
+#include <stdlib.h>
+#include <stdio.h>
+#define scr "\
+#bin/bash/\n\
+ls -l\
+"
+int main(int argc, char *argv[])
+{
+  system(scr);
+  return 0;
+}

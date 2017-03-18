@@ -1,0 +1,65 @@
+@startuml
+skinparam packageStyle rectangle
+skinparam usecase {
+	BackgroundColor #ED764D
+	BorderColor White
+	RectangleColor #E95420
+	ArrowColor #772953
+	ActorBorderColor black
+	FontName Consolas
+}
+left to right direction 
+:Match\nOfficial: as MO
+:Team\nManager: as TM
+:Teams: as T
+:Organiser: as OR
+:Others: as OT
+
+Rectangle InterIIT_Tournamment_Management_System{
+
+(View Schedule) as VSch
+(View Scoreboard) as VScr
+(Login) as L
+
+MO -- L
+OR -- L
+TM -- L
+T -- L
+OT -- L
+
+MO -- (Request for\nScoreboard Update)
+(Request for\nScoreboard Update) ..> (Submit\nScoreboard Details) : include
+(Request for\nScoreboard Update) <.. (Update Scoreboard) : extend
+(Update Scoreboard) -- OR
+
+TM -- (Reporting of\nPlayers)
+(Reporting of\nPlayers) <.. (Check-in) : extend
+(Check-in) ..> (Submission of\nBiodata) : include
+(Check-in) -- T
+TM -- (Lodge Complaint)
+(Lodge Complaint) <.. (Address Complaint) : extend
+(Address Complaint) -- OR
+
+T -- (Request for Kits)
+(Request for Kits) <.. (Give Kits) : extend
+(Give Kits) ..> (Check Inventory\nfor Kits) : include
+(Give Kits) -- OR
+
+(Change Schedule) -- OR
+(Change Schedule) ..> (Submit\nOld Fixture) : include
+(Change Schedule) ..> (Submit\nNew Fixture) : include
+
+MO -- VSch
+OR -- VSch
+TM -- VSch
+T -- VSch
+OT -- VSch
+
+MO -- VScr
+OR -- VScr
+TM -- VScr
+T -- VScr
+OT -- VScr
+}
+
+@enduml

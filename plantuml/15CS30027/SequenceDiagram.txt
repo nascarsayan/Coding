@@ -1,0 +1,32 @@
+@startuml
+
+actor "Team Member" as TM
+control IITMS
+actor "Organiser" as OR
+
+activate TM #000000
+
+TM -> IITMS : login()
+activate IITMS #000000
+IITMS --> TM : welcome message
+deactivate IITMS
+
+TM -> IITMS : lodge complaint()
+activate IITMS #000000
+IITMS -> OR : notify organiser()
+deactivate IITMS
+
+activate OR #D3D3D3
+OR -> OR : view notification
+activate OR #000000
+deactivate OR
+deactivate OR
+
+OR --> IITMS : address issue()
+activate IITMS #000000
+IITMS --> TM : give reply()
+deactivate IITMS
+
+TM -[hidden]-> IITMS
+
+@enduml

@@ -1,0 +1,30 @@
+public class DynamicArray
+{
+  private int array[];
+  private int tmparray[];
+  private int index;
+  private int size;
+  public DynamicArray()
+  {
+    size = 10;
+    array = new int[size];
+    index = 0;
+  }
+  public void add(int x)
+  {
+    if(index == size - 1)
+      {
+        tmparray = new int[size * 2];
+        for(i = 0; i < size; i++)
+          tmparray[i] = array[i];
+        tmparray[i] = x;
+        array = tmparray;
+        index = size;
+        size = size * 2;
+      }
+  }
+  public int remove()
+  {
+    int rem = array[index];
+  }
+}

@@ -1,0 +1,16 @@
+public class Student extends Person
+{
+  private String roll;
+  private String branch;
+  public Person(String name, int age, String roll, String branch)
+  {
+    super(name, age);
+    this.roll = roll;
+    this.branch = branch;
+  }
+  pubic void printAttr()
+  {
+    super.printAttr();
+    System.out.println("Roll No = %s\nBranch = %s\n", roll, branch);
+  }
+ }
